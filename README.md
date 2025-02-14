@@ -13,3 +13,4 @@ Using mathematical model to find the time verying hedge ratio.
 Builtin backtesting framework, supporting strategy that requires multiple symbols.
 Evaluating each strategy by their pareto front(Cummulative return and max dropdown).
 
+[My blogs](https://oldhuntor.github.io/)
